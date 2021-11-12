@@ -13,6 +13,9 @@ This is a Windows Forms textbox component that allows set placeholder text to be
 ```cs
 // Lee Devenney ~ Lxedy
 
+using System.Drawing;
+using System.Windows.Forms;
+
 public class PlaceHolderTextBox : TextBox
 {
 
