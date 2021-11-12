@@ -102,7 +102,7 @@ You will need to copy and paste this for use in step 2 of the installation instr
 
 ![Alt text](https://i.imgur.com/a7OXQDD.png)
 
-+ Step 2: Paste the source code into the class - replacing all text inside of it...
++ Step 2: Paste the source code into the class - inside namespace (remember to put the using outside the namespace)...
 
 ![Alt text](https://i.imgur.com/mJavV4q.png)
 
