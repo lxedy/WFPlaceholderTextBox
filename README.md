@@ -8,6 +8,16 @@ This is a Windows Forms textbox component that allows set placeholder text to be
 + PasswordChar support!
 + Placeholder has lighter shade and is italic than typed text! (Can be changed if wanted)
 
+## [FOOTAGE]
+
+1) Normal Use
+
+https://user-images.githubusercontent.com/88516028/141463712-2f1b266a-651c-449e-a8d9-502a4407ac9c.mp4
+
+2) PasswordChar Support
+
+https://user-images.githubusercontent.com/88516028/141463859-2256c027-99a6-4b0f-9fcf-82d7bb4a4d25.mp4
+
 ## [SOURCE CODE]
 
 ```cs
